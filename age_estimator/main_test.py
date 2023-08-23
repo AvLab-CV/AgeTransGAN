@@ -35,9 +35,9 @@ def predict(model, image):
         img = img.type('torch.FloatTensor').cuda()
        
         output = model(img[None])
-        # m = nn.Softmax(dim=1)
+        m = nn.Softmax(dim=1)
         
-        # output = m(output)
+        output = m(output)
         
         a = torch.arange(START_AGE, END_AGE + 1, dtype=torch.float32).cuda()
         mean = (output * a).sum(1, keepdim=True).cpu().data.numpy()
