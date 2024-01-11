@@ -150,8 +150,8 @@ The table shows performance on FFHQ-Aging for transferring Group-5 to other 9 gr
 The dataset consists of 4000 images of  520 subject collected from the google search. Each image is labeled with ground-truth age. The numbers of subjects in group 0 ~ group 9 are 341, 364, 312, 399, 469, 515, 435, 296 ,195, and 67, respectively.
 Unprocess images is avaliable here
 [CAF dataset](https://drive.google.com/file/d/1gqlmBMYTleqtmEXDb-wELha_DZD3VLqi/view?usp=sharing).
-Images categorized by age group is avaliable here CAF group dataset
-[CAF group dataset](https://drive.google.com/file/d/1UD7jpE_POc_MqshlgxpFoFav8UOeqvp5/view?usp=sharing)
+Images categorized by age group is avaliable here
+[CAF group dataset](https://drive.google.com/file/d/1UD7jpE_POc_MqshlgxpFoFav8UOeqvp5/view?usp=sharing).
 
 ## Training Networks
 Expected training times for the default configuration using Nvidia Titan RTX GPU:
