@@ -153,6 +153,23 @@ Unprocess images is avaliable here
 Images categorized by age group is avaliable here
 [CAF group dataset](https://drive.google.com/file/d/1UD7jpE_POc_MqshlgxpFoFav8UOeqvp5/view?usp=sharing).
 
+## License
+The individual images in the CAF dataset were published in numerous internet source by their respective authors under numerous licenses such as Creative Commons BY 2.0, Creative Commons BY-NC 2.0, Public Domain Mark 1.0, Public Domain CC0 1.0, or U.S. Government Works license. All of these licenses allow free use, redistribution, and adaptation for non-commercial purposes. However, some of them require giving appropriate credit to the original author, as well as indicating any changes that were made to the images. 
+
+https://creativecommons.org/licenses/by/2.0/
+https://creativecommons.org/licenses/by-nc/2.0/
+https://creativecommons.org/publicdomain/mark/1.0/
+https://creativecommons.org/publicdomain/zero/1.0/
+http://www.usa.gov/copyright.shtml
+
+The dataset itself is made available under Creative Commons BY-NC-SA 4.0 license by AVLab NTUST. You can use, redistribute, and adapt it for
+non-commercial purposes, as long as you (a) give appropriate credit by
+citing our paper, (b) indicate any changes that you've made, and
+(c) distribute any derivative works under the same license.
+
+If you believe that your copyright is being infringed by content on this dataset and you’d like to have that content removed, you can submit a copyright report to us using our contact e-mail address: .
+
+
 ## Training Networks
 Expected training times for the default configuration using Nvidia Titan RTX GPU:
 
