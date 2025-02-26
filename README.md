@@ -146,14 +146,14 @@ The table shows performance on FFHQ-Aging for transferring Group-5 to other 9 gr
 
 [FFHQ-10Groups](https://drive.google.com/file/d/1a3GXTGjch9rl-_JRiIfM5cbM1jCPpQHY/view?usp=sharing)
 
-## Cross Age Face dataset
+## Cross Age Face Dataset
 The dataset consists of 4000 images of  520 subject collected from the google search. Each image is labeled with ground-truth age. The numbers of subjects in group 0 ~ group 9 are 341, 364, 312, 399, 469, 515, 435, 296 ,195, and 67, respectively.
 Unprocess images is avaliable here
 [CAF dataset](https://drive.google.com/file/d/1gqlmBMYTleqtmEXDb-wELha_DZD3VLqi/view?usp=sharing).
 Images categorized by age group is avaliable here
 [CAF group dataset](https://drive.google.com/file/d/1UD7jpE_POc_MqshlgxpFoFav8UOeqvp5/view?usp=sharing).
 
-## License
+## Cross Age Face Dataset License
 The individual images in the CAF dataset were published in numerous internet source by their respective authors under numerous licenses such as Creative Commons BY 2.0, Creative Commons BY-NC 2.0, Public Domain Mark 1.0, Public Domain CC0 1.0, or U.S. Government Works license. All of these licenses allow free use, redistribution, and adaptation for non-commercial purposes. However, some of them require giving appropriate credit to the original author, as well as indicating any changes that were made to the images. 
 
 https://creativecommons.org/licenses/by/2.0/
